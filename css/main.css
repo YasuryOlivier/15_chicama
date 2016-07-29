@@ -1,0 +1,47 @@
+.fondo{
+	background-image: url("../img/grupal.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover; 
+	height: 600px;
+}
+.tresfotos{
+	width: 280px;
+	height: 200px;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	padding: 20px 15px;
+	margin: 5px;
+}
+.logo{
+	width: 390px;
+	height: 90px; 
+	padding: 5px;
+}
+button{
+	width: 100px;
+	height: 50px;
+	background: orange;
+	margin: 20px;
+}
+.gris{
+	background: #747474;
+	padding: 25px;
+}
+.blanca{
+	color: white;
+}
+.negritas{
+	font-weight: bold;
+}
+
+hr{
+	width: 250px;
+	border: 2px solid;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
